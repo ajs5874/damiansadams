@@ -132,7 +132,7 @@ address {
 .inline-img {
 	float: right;
 	display: inline;
-	margin: 5px 0px 30px 30px;
+	margin: 5px 0px 20px 25px;
 }
 
 
@@ -560,7 +560,7 @@ body {
 
 nav{
 	float: right;
-	margin-right: 250px;
+	margin-right: 350px;
 }
 
 .main-navigation ul {
