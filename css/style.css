@@ -127,6 +127,14 @@ a:hover {
 address {
 	font-style:normal;
 }
+/* ADDITIONAL CSS - AJS */
+
+.inline-img {
+	float: right;
+	display: inline;
+	margin: 0px 0px 20px 20px;
+}
+
 
 /* 1.2 Common Tags */
 .label {
