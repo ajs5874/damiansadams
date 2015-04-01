@@ -52,21 +52,21 @@
             <!-- end about box -->
             <!-- start content -->
             <div class="content clearfix">
-            	<p>The Safety Forum offers a fast and efficient audit service which provides a thorough and accurate assessment of highway schemes. The Safety Forum has evolved over the last 5 years, with a wide spread of public and private sector clients because of its uniqueness founded on transparency and impartiality, which is paramount if road safety is to be optimised in the balanced and thus complex assessment of Planning Applications.</p>
+            	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 <h3>Bullet List Style:</h3>
                 <ul class="listing">
-                	<li>Early identification of key issues of highway;</li>
-                    <li>A transparent, audit of development proposals;</li>
-                    <li>Accelerated submission approval process;</li>
-                    <li>Minimum objections, maximum support;</li>
-                    <li>Something else to go here too;</li>
+                	<li>Bullet 1</li>
+                    <li>Bullet 2</li>
+                    <li>Bullet 3</li>
+                    <li>Bullet 4</li>
+                    <li>Bullet 5</li>
                 </ul>
                 <ul class="listing gap">
-                	<li>Early identification of key issues of highway;</li>
-                    <li>A transparent, audit of development proposals;</li>
-                    <li>Accelerated submission approval process;</li>
-                    <li>Minimum objections, maximum support;</li>
-                    <li>Something else to go here too;</li>
+                	<li>Bullet 6</li>
+                    <li>Bullet 7</li>
+                    <li>Bullet 8</li>
+                    <li>Bullet 9</li>
+                    <li>Bullet 10</li>
                 </ul>
             </div>
             <!-- end content -->
@@ -76,32 +76,32 @@
                 	<li>
                     	<!-- start imgb -->
                         <div class="imgb">
-                        	<a href="#" title="products"><img src="images/img_products.jpg" alt="products" /></a>
+                        	<a href="/about-us.php" title="products"><img src="images/thumb_about-us.jpg" alt="products" /></a>
                         </div>
                         <!-- end imgb -->
-                        <h3>Finished Product 1</h3>
+                        <h3>About Us</h3>
                         <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
-                        <a title="View Large Image" href="http://farm8.staticflickr.com/7367/16426879675_e32ac817a8_b.jpg" class="view fancybox">View Large Image</a>
+                        <a title="View More" href="/about-us.php" class="view fancybox">View Large Image</a>
                     </li>
                     <li>
                     	<!-- start imgb -->
                         <div class="imgb">
-                        	<a href="#" title="products"><img src="images/img_products2.jpg" alt="products" /></a>
+                        	<a href="/services.php" title="products"><img src="images/thumb_services.jpg" alt="products" /></a>
                         </div>
                         <!-- end imgb -->
-                        <h3>Finished Product 2</h3>
+                        <h3>Services</h3>
                         <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
-                        <a title="View Large Image" href="http://farm8.staticflickr.com/7367/16426879675_e32ac817a8_b.jpg" class="view fancybox">View Large Image</a>
+                        <a title="View More" href="/services.php" class="view fancybox">View Large Image</a>
                     </li>
                     <li>
                     	<!-- start imgb -->
                         <div class="imgb">
-                        	<a href="#" title="products"><img src="images/img_products3.jpg" alt="products" /></a>
+                        	<a href="/gallery.php" title="products"><img src="images/thumb_gallery.jpg" alt="products" /></a>
                         </div>
                         <!-- end imgb -->
-                        <h3>Finished Product 3</h3>
+                        <h3>Gallery</h3>
                         <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
-                        <a title="View Large Image" href="http://farm8.staticflickr.com/7367/16426879675_e32ac817a8_b.jpg" class="view fancybox">View Large Image</a>
+                        <a title="View More" href="/gallery.php">View Large Image</a> <!-- class="view fancybox -->
                     </li>
                 </ul>
             </div>
