@@ -39,7 +39,7 @@
             <div class="about-box clearfix">
             	<!-- start imgb -->
                 <div class="imgb">
-                	<img src="images/img_gallery.jpg" alt="Gallery" />
+                	<img src="images/h3_gallery.jpg" alt="Gallery" />
                 </div>
                 <!-- end imgb -->
                 <!-- start txtb -->
