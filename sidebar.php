@@ -21,7 +21,7 @@
 
          <!-- start imgb -->
          <div class="imgb">
-         	<img src="images/img_girl.png" alt="girl" />
+         	<img src="images/damian-adams.png" alt="Damian Adams" />
          </div>
          <!-- end imgb -->
      <?php endif; ?>
@@ -31,15 +31,15 @@
 <div class="testimonials clearfix">
 	<!-- start imgb -->
     <div class="imgb">
-    	<img src="images/img_testimonials.png" alt="quality" />
+    	<img src="images/testimonials_01.png" alt="quality" />
     </div>
     <!-- end imgb -->
     <!-- start txtb -->
     <div class="txtb">
     	<h3>Client Testimonials</h3>
-        <blockquote>"I was having a look at Damian's work last night, it looks really, really great! His attention to details is spot-on. I'd happily recommend him to anyone."</blockquote>
-        <strong class="name">Des Smith - Chepstow</strong>
+        <blockquote>"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."</blockquote>
+        <strong class="name">Client Name - Client Location</strong>
     </div>
     <!-- end txtb -->
 </div>
-<!-- enmd testimonials -->
+<!-- end testimonials -->
