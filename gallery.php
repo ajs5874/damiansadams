@@ -16,7 +16,7 @@
         <!-- end logo -->
         <!-- start header right -->
         <div class="header-right clearfix">
-        	<strong class="call">Call today on: <span>01291 620536</span></strong>
+        	<strong class="call">Call today on: <span>07803 171744</span></strong>
             <?php include('menu.php'); ?>
         </div>
         <!-- end header right -->
@@ -45,7 +45,7 @@
                 <!-- start txtb -->
                 <div class="txtb">
                 	<h3>DGA Decorating</h3>
-                    <p>The Safety Forum (TSF) is a forum of independent experts specialising in <strong>Road Safety Audits</strong> (RSA), <strong>Road Safety Engineering</strong> and Data Collection. The Safety Forum (TSF) is a forum of independent in <strong>Road Safety Audits</strong> (RSA).</p>
+                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
                 </div>
                 <!-- end txtb -->
             </div>
@@ -60,7 +60,7 @@
                 <h3>Free Quotations</h3>
                 <p>Quotes are available following site visits or from scaled plans.</p>
                 <span>To arrange a site visit, call:</span>
-                <strong>01291 620536</strong>
+                <strong>07803 171744</strong>
             </div>
             <!-- end quotations -->
             <div style="clear: both"></div>

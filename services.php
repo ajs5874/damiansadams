@@ -16,7 +16,7 @@
         <!-- end logo -->
         <!-- start header right -->
         <div class="header-right clearfix">
-        	<strong class="call">Call today on: <span>01291 620536</span></strong>
+        	<strong class="call">Call today on: <span>07803 171744</span></strong>
             <?php include('menu.php'); ?>
         </div>
         <!-- end header right -->
@@ -45,7 +45,7 @@
                 <!-- start txtb -->
                 <div class="txtb">
                 	<h3>Services</h3>
-                    <p>The Safety Forum (TSF) is a forum of independent experts specialising in <strong>Road Safety Audits</strong> (RSA), <strong>Road Safety Engineering</strong> and Data Collection. The Safety Forum (TSF) is a forum of independent in <strong>Road Safety Audits</strong> (RSA).</p>
+                    <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
                 </div>
                 <!-- end txtb -->
             </div>
@@ -56,13 +56,12 @@
                 <div class="common clearfix">
                 	<!-- start imgb -->
                     <div class="imgb">
-                    	<a href="#" title="Wallpapering"><img src="images/img_services.jpg" alt="Wallpapering" /></a>
+                    	<a href="#" title="Wallpapering"><img src="images/services-wallpapering.jpg" alt="Wallpapering" /></a>
                     </div>
                     <!-- end imgb -->
                     <!-- start txtb -->
                     <div class="txtb">
                     	<h3>Wallpapering</h3>
-                        <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut <strong>utatquatur</strong>?</p>
                         <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
                     </div>
                     <!-- end txtb -->
@@ -72,13 +71,13 @@
                 <div class="common clearfix">
                 	<!-- start imgb -->
                     <div class="imgb">
-                    	<a href="#" title="Wallpapering"><img src="images/img_services2.jpg" alt="Wallpapering" /></a>
+                    	<a href="#" title="Paint Removal"><img src="images/services-paint-removal.jpg" alt="Paint Removal" /></a>
                     </div>
                     <!-- end imgb -->
                     <!-- start txtb -->
                     <div class="txtb">
                     	<h3>Paint Removal</h3>
-                        <p>Nequuntibus <a href="#" title="this is a link">this is a link</a> core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
+                        <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
                     </div>
                     <!-- end txtb -->
                 </div>
@@ -87,12 +86,87 @@
                 <div class="common clearfix">
                 	<!-- start imgb -->
                     <div class="imgb">
-                    	<a href="#" title="Wallpapering"><img src="images/img_services3.jpg" alt="Wallpapering" /></a>
+                    	<a href="#" title="Plastering"><img src="images/services-plastering.jpg" alt="Plastering" /></a>
                     </div>
                     <!-- end imgb -->
                     <!-- start txtb -->
                     <div class="txtb">
                     	<h3>Plastering</h3>
+                        <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
+                    </div>
+                    <!-- end txtb -->
+                </div>
+                <!-- end common -->
+                <!-- start common -->
+                <div class="common clearfix">
+                	<!-- start imgb -->
+                    <div class="imgb">
+                    	<a href="#" title="Floor Sanding"><img src="images/services-floor-sanding.jpg" alt="Floor Sanding" /></a>
+                    </div>
+                    <!-- end imgb -->
+                    <!-- start txtb -->
+                    <div class="txtb">
+                    	<h3>Floor Sanding</h3>
+                        <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
+                    </div>
+                    <!-- end txtb -->
+                </div>
+                <!-- end common -->
+                <!-- start common -->
+                <div class="common clearfix">
+                	<!-- start imgb -->
+                    <div class="imgb">
+                    	<a href="#" title="Laminate & Solid Flooring"><img src="images/services-flooring.jpg" alt="Laminate & Solid Flooring" /></a>
+                    </div>
+                    <!-- end imgb -->
+                    <!-- start txtb -->
+                    <div class="txtb">
+                    	<h3>Laminate &amp; Solid Flooring</h3>
+                        <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
+                    </div>
+                    <!-- end txtb -->
+                </div>
+                <!-- end common -->
+                <!-- start common -->
+                <div class="common clearfix">
+                	<!-- start imgb -->
+                    <div class="imgb">
+                    	<a href="#" title="Painting - Interior & Exterior"><img src="images/services-painting.jpg" alt="Painting - Interior & Exterior" /></a>
+                    </div>
+                    <!-- end imgb -->
+                    <!-- start txtb -->
+                    <div class="txtb">
+                    	<h3>Painting - Interior &amp; Exterior</h3>
+                        <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
+                    </div>
+                    <!-- end txtb -->
+                </div>
+                <!-- end common -->
+                <!-- start common -->
+                <div class="common clearfix">
+                	<!-- start imgb -->
+                    <div class="imgb">
+                    	<a href="#" title="Varnishing"><img src="images/services-varnishing.jpg" alt="Varnishing" /></a>
+                    </div>
+                    <!-- end imgb -->
+                    <!-- start txtb -->
+                    <div class="txtb">
+                    	<h3>Varnishing</h3>
+                        <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
+                    </div>
+                    <!-- end txtb -->
+                </div>
+                <!-- end common -->
+                <!-- start common -->
+                <div class="common clearfix">
+                	<!-- start imgb -->
+                    <div class="imgb">
+                    	<a href="#" title="Tiling - Floors & Walls"><img src="images/services-tiling.jpg" alt="Tiling - Floors & Walls" /></a>
+                    </div>
+                    <!-- end imgb -->
+                    <!-- start txtb -->
+                    <div class="txtb">
+                    	<h3>Tiling - Floors &amp; Walls</h3>
                         <p>Nequuntibus ullatur sa corro core ven Opti in re ptatem experum, oditatq uidestes et aut aut utatquatur?</p>
                     </div>
                     <!-- end txtb -->
