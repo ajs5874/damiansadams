@@ -39,7 +39,7 @@
             <div class="about-box clearfix">
             	<!-- start imgb -->
                 <div class="imgb">
-                	<img src="images/img_about.jpg" alt="about" />
+                	<img src="images/h3_home.jpg" alt="DGA Decorating" />
                 </div>
                 <!-- end imgb -->
                 <!-- start txtb -->
