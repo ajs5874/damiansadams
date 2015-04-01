@@ -21,7 +21,7 @@
 
          <!-- start imgb -->
          <div class="imgb">
-         	<img src="images/damian-adams.png" alt="Damian Adams" />
+         	<img src="images/dga-portrait.png" alt="Damian Adams" />
          </div>
          <!-- end imgb -->
      <?php endif; ?>
