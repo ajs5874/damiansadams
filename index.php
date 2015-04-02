@@ -14,10 +14,13 @@
         	<a href="index.html" title="DGA Decorating"><img src="images/logo.png" alt="DGA Decorating" /></a>
         </div>
         <!-- end logo -->
+        <div>
+        	<?php include('menu.php'); ?>
+        </div>
         <!-- start header right -->
         <div class="header-right clearfix">
         	<strong class="call">Call today on: <span>07803 171744</span></strong>
-            <?php include('menu.php'); ?>
+
         </div>
         <!-- end header right -->
     </div>
